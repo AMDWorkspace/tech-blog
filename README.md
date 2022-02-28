@@ -37,8 +37,6 @@ Clone the repository, navigate to the root folder, run the following commands fr
 - Seed DB : `npm run seed`
 - Start Server : `npm start server`
 
-## Screenshot
-
 ## Questions
 
 Contact me with any questions:
@@ -46,3 +44,6 @@ Contact me with any questions:
 - amdworkspace@gmail.com
 
 ## Deployed Application
+
+https://amdworkspace.github.io/tech-blog/
+https://mvc-challenge-tech-blog.herokuapp.com/
